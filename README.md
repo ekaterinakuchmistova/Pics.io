@@ -9,4 +9,6 @@ For running autotests:
 1. `npm i playwright`
 2. `npx playwright test --reporter=line`
 3. `npx playwright show-report`
+
+
 —
