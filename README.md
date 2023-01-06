@@ -12,3 +12,5 @@ For running autotests:
 
 
 —
+![image](https://user-images.githubusercontent.com/90832725/210992607-f72665d9-d02b-4f6b-9e06-89efa0b35ae6.png)
+![localhost_9323_](https://user-images.githubusercontent.com/90832725/210994931-1a9e85ab-e9b6-42d3-8bf4-df68c0886dc7.png)
